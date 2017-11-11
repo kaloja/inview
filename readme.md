@@ -4,7 +4,7 @@ Inview is a very simple and high-performance way to detecting elements in viewpo
 
 ***
 
-## Custom Options
+## Options
 Inview has a number of options you can customize. Below are the defaults:
 
 ```javascript
