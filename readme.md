@@ -8,7 +8,7 @@ Inview is a very simple and high-performance way to detecting elements in viewpo
 Inview has a number of options you can customize. Below are the defaults:
 
 ```javascript
-inview({
+inview(element, {
   threshold: 0.25,
   offsetTop: 0,
   offsetRight: 0,
